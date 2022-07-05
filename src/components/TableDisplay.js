@@ -19,7 +19,7 @@ export default class TableDisplay extends Component {
       updatedData: newData,
     });
   }
-
+  // test
   render() {
     const updatedData = this.state.updatedData;
     const columns = [
